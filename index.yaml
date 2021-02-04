@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   infra-operator-tpl:
   - apiVersion: v2
-    created: "2021-02-04T12:08:46.405045843Z"
+    created: "2021-02-04T19:49:07.281394593Z"
+    description: Template chart for th2-infra-operator
+    digest: bb16edd724b76842937da34a52c79e1922d4638fdd9b3e8d84a39a255e9b012f
+    name: infra-operator-tpl
+    type: application
+    urls:
+    - infra-operator-tpl-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    created: "2021-02-04T19:49:07.280648498Z"
     description: Template chart for th2-infra-operator
     digest: 99520bf061ec959422cdaa884b415898cf4633ad46ec4b80b47d8fcf1a80760e
     name: infra-operator-tpl
@@ -10,4 +19,4 @@ entries:
     urls:
     - infra-operator-tpl-0.1.0.tgz
     version: 0.1.0
-generated: "2021-02-04T12:08:46.404424441Z"
+generated: "2021-02-04T19:49:07.275433537Z"
