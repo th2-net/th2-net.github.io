@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   infra-operator-tpl:
   - apiVersion: v2
-    created: "2021-03-22T09:22:38.483056442Z"
+    created: "2021-03-22T10:34:50.597315035Z"
     description: Template chart for th2-infra-operator
     digest: 2101186fba76024b33c5117ee82d886caafb64b6b1e77e8b4a4906623e39b21e
     name: infra-operator-tpl
@@ -11,7 +11,7 @@ entries:
     - infra-operator-tpl-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
-    created: "2021-03-22T09:22:38.48265704Z"
+    created: "2021-03-22T10:34:50.596796429Z"
     description: Template chart for th2-infra-operator
     digest: c88aff02dba9c3680bdf7f8725fcce812dbcc380233df7758298ebe434baea18
     name: infra-operator-tpl
@@ -20,7 +20,7 @@ entries:
     - infra-operator-tpl-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    created: "2021-03-22T09:22:38.482204138Z"
+    created: "2021-03-22T10:34:50.596241023Z"
     description: Template chart for th2-infra-operator
     digest: 85d94cbda25571c62f736a714b444eef9aec330c4bba68dea6263345ddd3d36b
     name: infra-operator-tpl
@@ -29,7 +29,7 @@ entries:
     - infra-operator-tpl-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
-    created: "2021-03-22T09:22:38.481771535Z"
+    created: "2021-03-22T10:34:50.595786918Z"
     description: Template chart for th2-infra-operator
     digest: 99520bf061ec959422cdaa884b415898cf4633ad46ec4b80b47d8fcf1a80760e
     name: infra-operator-tpl
@@ -40,7 +40,28 @@ entries:
   th2:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-03-22T09:22:38.494930206Z"
+    created: "2021-03-22T10:34:50.614607728Z"
+    dependencies:
+    - alias: rabbitmq
+      condition: rabbitmq.internal
+      name: rabbitmq-ha
+      repository: https://charts.helm.sh/stable
+      version: 1.44.4
+    - alias: cassandra
+      condition: cassandra.internal
+      name: cassandra
+      repository: https://charts.bitnami.com/bitnami
+      version: 5.6.7
+    description: th2 service Helm chart
+    digest: 8531ad4b7525e3fca00beb7f71ba7463a99ab1c4476cf7009b7b0313de2c24ac
+    name: th2
+    type: application
+    urls:
+    - th2-1.4.0.tgz
+    version: 1.4.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-03-22T10:34:50.609461971Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -61,7 +82,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-03-22T09:22:38.489559477Z"
+    created: "2021-03-22T10:34:50.602966898Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -80,4 +101,4 @@ entries:
     urls:
     - th2-1.3.0.tgz
     version: 1.3.0
-generated: "2021-03-22T09:22:38.481235133Z"
+generated: "2021-03-22T10:34:50.595152411Z"
