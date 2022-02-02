@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   infra-operator-tpl:
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.167839409Z"
+    created: "2022-02-02T14:07:31.195136858Z"
     description: Template chart for th2-infra-operator
     digest: 22ac059d8668fd01b8f60f02730bc3903cca472df2fe6d1cb4d9c675ce21608a
     name: infra-operator-tpl
@@ -11,7 +11,7 @@ entries:
     - infra-operator-tpl-0.7.1.tgz
     version: 0.7.1
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.167241902Z"
+    created: "2022-02-02T14:07:31.194706952Z"
     description: Template chart for th2-infra-operator
     digest: ccf2eccbbc3af9cb80cdfc69a6831f5016d7b5a28981151656e052cff476d188
     name: infra-operator-tpl
@@ -20,7 +20,7 @@ entries:
     - infra-operator-tpl-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.166628093Z"
+    created: "2022-02-02T14:07:31.194316347Z"
     description: Template chart for th2-infra-operator
     digest: ba05d76a2b70a440e2306d457465df013ff392d3f090791b121893e37bb71004
     name: infra-operator-tpl
@@ -29,7 +29,7 @@ entries:
     - infra-operator-tpl-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.165989985Z"
+    created: "2022-02-02T14:07:31.193908742Z"
     description: Template chart for th2-infra-operator
     digest: be3001a0b3bed284519c7e73d3296ce8a1135a3158aef890473b9b676755f78b
     name: infra-operator-tpl
@@ -38,7 +38,7 @@ entries:
     - infra-operator-tpl-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.165093173Z"
+    created: "2022-02-02T14:07:31.193537238Z"
     description: Template chart for th2-infra-operator
     digest: cde71110a2db094922edea67dd5c2b0956b0b6082c6d2ef0786b76ba71026df5
     name: infra-operator-tpl
@@ -47,7 +47,7 @@ entries:
     - infra-operator-tpl-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.164346764Z"
+    created: "2022-02-02T14:07:31.193163833Z"
     description: Template chart for th2-infra-operator
     digest: 1c239eb089675d2778e065f8bd1b0f499b2d6d6be08e95c64d12fdd78ab79a54
     name: infra-operator-tpl
@@ -56,7 +56,7 @@ entries:
     - infra-operator-tpl-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.163630154Z"
+    created: "2022-02-02T14:07:31.192781628Z"
     description: Template chart for th2-infra-operator
     digest: 8ddd36e14cc886111e8f8f07853f0f41336fcb1361f95a231e01ea0cf61e8d4d
     name: infra-operator-tpl
@@ -65,7 +65,7 @@ entries:
     - infra-operator-tpl-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.163083647Z"
+    created: "2022-02-02T14:07:31.192461524Z"
     description: Template chart for th2-infra-operator
     digest: 378c6c45e185e7ceaec7e46ee5ed79125cdb7879fa10c434e4c5cb5a2b65d433
     name: infra-operator-tpl
@@ -74,7 +74,7 @@ entries:
     - infra-operator-tpl-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.162327137Z"
+    created: "2022-02-02T14:07:31.19213232Z"
     description: Template chart for th2-infra-operator
     digest: 2101186fba76024b33c5117ee82d886caafb64b6b1e77e8b4a4906623e39b21e
     name: infra-operator-tpl
@@ -83,7 +83,7 @@ entries:
     - infra-operator-tpl-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.161945932Z"
+    created: "2022-02-02T14:07:31.191797416Z"
     description: Template chart for th2-infra-operator
     digest: c88aff02dba9c3680bdf7f8725fcce812dbcc380233df7758298ebe434baea18
     name: infra-operator-tpl
@@ -92,7 +92,7 @@ entries:
     - infra-operator-tpl-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.161507626Z"
+    created: "2022-02-02T14:07:31.191406911Z"
     description: Template chart for th2-infra-operator
     digest: 85d94cbda25571c62f736a714b444eef9aec330c4bba68dea6263345ddd3d36b
     name: infra-operator-tpl
@@ -101,7 +101,7 @@ entries:
     - infra-operator-tpl-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
-    created: "2022-01-24T11:23:42.161102221Z"
+    created: "2022-02-02T14:07:31.190759703Z"
     description: Template chart for th2-infra-operator
     digest: 99520bf061ec959422cdaa884b415898cf4633ad46ec4b80b47d8fcf1a80760e
     name: infra-operator-tpl
@@ -112,7 +112,7 @@ entries:
   th2:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.250354992Z"
+    created: "2022-02-02T14:07:31.273827438Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -133,7 +133,28 @@ entries:
     version: 1.7.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.240259259Z"
+    created: "2022-02-02T14:07:31.269037978Z"
+    dependencies:
+    - alias: rabbitmq
+      condition: rabbitmq.internal
+      name: rabbitmq-ha
+      repository: https://charts.helm.sh/stable
+      version: 1.44.4
+    - alias: cassandra
+      condition: cassandra.internal
+      name: cassandra
+      repository: https://charts.bitnami.com/bitnami
+      version: 5.6.7
+    description: th2 service Helm chart
+    digest: 7470ead2e7c75a3e95a438d244356f15ae9f21935a0d35ff2d6e5c378650ee46
+    name: th2
+    type: application
+    urls:
+    - th2-1.6.2.tgz
+    version: 1.6.2
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-02-02T14:07:31.26439302Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -154,7 +175,7 @@ entries:
     version: 1.6.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.235444496Z"
+    created: "2022-02-02T14:07:31.258981553Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -175,7 +196,7 @@ entries:
     version: 1.6.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.230601233Z"
+    created: "2022-02-02T14:07:31.254611998Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -196,7 +217,7 @@ entries:
     version: 1.5.5
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.224353151Z"
+    created: "2022-02-02T14:07:31.249288632Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -217,7 +238,7 @@ entries:
     version: 1.5.4
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.218739777Z"
+    created: "2022-02-02T14:07:31.243252357Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -238,7 +259,7 @@ entries:
     version: 1.5.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.214154517Z"
+    created: "2022-02-02T14:07:31.238787001Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -259,7 +280,7 @@ entries:
     version: 1.5.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.208355241Z"
+    created: "2022-02-02T14:07:31.234283745Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -280,7 +301,7 @@ entries:
     version: 1.5.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.20370158Z"
+    created: "2022-02-02T14:07:31.228492573Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -301,7 +322,7 @@ entries:
     version: 1.4.5
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.19838471Z"
+    created: "2022-02-02T14:07:31.224094918Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -322,7 +343,7 @@ entries:
     version: 1.4.4
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.192950339Z"
+    created: "2022-02-02T14:07:31.219665563Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -343,7 +364,7 @@ entries:
     version: 1.4.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.187870872Z"
+    created: "2022-02-02T14:07:31.214332197Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -364,7 +385,7 @@ entries:
     version: 1.4.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.183265412Z"
+    created: "2022-02-02T14:07:31.209855341Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -385,7 +406,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.178198645Z"
+    created: "2022-02-02T14:07:31.205317184Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -406,7 +427,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-01-24T11:23:42.173021877Z"
+    created: "2022-02-02T14:07:31.199126707Z"
     dependencies:
     - alias: rabbitmq
       condition: rabbitmq.internal
@@ -425,4 +446,4 @@ entries:
     urls:
     - th2-1.3.0.tgz
     version: 1.3.0
-generated: "2022-01-24T11:23:42.160549514Z"
+generated: "2022-02-02T14:07:31.190068694Z"
